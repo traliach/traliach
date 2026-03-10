@@ -1,36 +1,114 @@
-# Welcome to My Profile
+# Hi, I'm Ali Achille Traoré 👋
 
-## About Me
+DevOps Engineer with 8+ years of experience designing cloud infrastructure, CI/CD pipelines, and containerized platforms.
 
-I'm a **DevOps Freelancer** specializing in:
-- **PACS Automation**
-- Running a **CCNA Network Lab**
-- Creating **Restaurant Deals** projects
+I specialize in automation, infrastructure as code, and Kubernetes-based systems.  
+Currently expanding into full-stack development through the Per Scholas Software Engineering program.
+
+---
+
+## What I Work On
+
+• Cloud infrastructure automation  
+• CI/CD pipeline design  
+• Kubernetes / container orchestration  
+• Observability and reliability engineering  
+• Full-stack web applications
+
+---
+
+## Professional Background
+
+DevOps Engineer at Dominion Systems
+
+Highlights
+
+• Improved CI/CD pipelines reducing deployment time by ~30%  
+• Automated 50+ infrastructure components with Terraform and Ansible  
+• Operated Kubernetes/OpenShift clusters maintaining ~99.9% uptime  
+• Implemented monitoring with Prometheus, Grafana, and Kibana  
+
+---
 
 ## Projects
 
-### PACS Automation
-Details about PACS Automation project...  
+### Global PACS Hybrid Cloud Medical Imaging System
 
-### DevOps Freelancer
-Details about my freelancing work...  
+Automated deployment of a medical imaging infrastructure using Orthanc PACS.
 
-### CCNA Network Lab
-Details about the network lab setup...  
+Technologies  
+Docker Compose • PostgreSQL • Object storage (S3 / Wasabi) • Python automation
+
+Focus  
+• dual-site architecture (local + cloud)  
+• automated environment setup  
+• troubleshooting and operational runbooks
+
+---
 
 ### Restaurant Deals
-Details about the restaurant deals project...  
 
-## Skills & Badges
-![](https://img.shields.io/badge/DevOps-Expert-brightgreen?style=flat)
-![](https://img.shields.io/badge/PACS_Automation-Experienced-blue?style=flat)
-![](https://img.shields.io/badge/CCNA-Networking-yellow?style=flat)
-![](https://img.shields.io/badge/GitHub-Stats-orange?style=flat)
+Full-stack marketplace where restaurants publish promotions and customers discover deals.
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=traliach&show_icons=true&theme=radical)
+Tech stack  
+React • Node.js • Express • MongoDB • TypeScript • JWT authentication
 
-## Animated Header
-![My Animated Header](https://example.com/animated-header.gif)  
+Features
 
-Feel free to connect with me!
+• role-based authentication (Admin / Owner / Customer)  
+• REST API with full CRUD  
+• admin moderation workflow  
+• React SPA frontend
+
+---
+
+### Containerized Rails Platform
+
+Dockerized Ruby on Rails application optimized for ARM64 environments.
+
+Key work
+
+• multi-stage Docker builds  
+• GitHub Actions CI/CD  
+• AWS Graviton compatibility
+
+---
+
+### Terraform Static Infrastructure
+
+Infrastructure-as-Code project provisioning a static website on AWS.
+
+Tools  
+Terraform • S3 • CloudFront
+
+---
+
+## Tech Stack
+
+Cloud  
+AWS
+
+Containers  
+Docker • Kubernetes • OpenShift
+
+Infrastructure as Code  
+Terraform • CloudFormation
+
+Automation  
+Ansible • Python
+
+Observability  
+Prometheus • Grafana • Kibana
+
+Languages  
+Python • JavaScript • TypeScript
+
+---
+
+## Connect With Me
+
+LinkedIn  
+linkedin.com/in/ali-achille-traore
+
+GitHub  
+github.com/traliach
