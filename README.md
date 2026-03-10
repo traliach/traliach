@@ -1,10 +1,36 @@
-- 👋 Hi, I’m Achille
-- 👀 I’m passionate about DevOps, cloud technologies, and continuous learning.
-- 🌱 I’m currently enhancing my skills in advanced DevOps practices and exploring new cloud solutions.
-- 💞️ I’m looking to collaborate on challenging DevOps projects that require innovative solutions and best practices implementation.
-- 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/traliach) for professional inquiries or collaborations.
+# Welcome to My Profile
 
-<!---
-traliach/traliach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+I'm a **DevOps Freelancer** specializing in:
+- **PACS Automation**
+- Running a **CCNA Network Lab**
+- Creating **Restaurant Deals** projects
+
+## Projects
+
+### PACS Automation
+Details about PACS Automation project...  
+
+### DevOps Freelancer
+Details about my freelancing work...  
+
+### CCNA Network Lab
+Details about the network lab setup...  
+
+### Restaurant Deals
+Details about the restaurant deals project...  
+
+## Skills & Badges
+![](https://img.shields.io/badge/DevOps-Expert-brightgreen?style=flat)
+![](https://img.shields.io/badge/PACS_Automation-Experienced-blue?style=flat)
+![](https://img.shields.io/badge/CCNA-Networking-yellow?style=flat)
+![](https://img.shields.io/badge/GitHub-Stats-orange?style=flat)
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=traliach&show_icons=true&theme=radical)
+
+## Animated Header
+![My Animated Header](https://example.com/animated-header.gif)  
+
+Feel free to connect with me!
