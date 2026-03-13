@@ -1,39 +1,37 @@
 # Ali Achille Traoré
 
-**DevOps Engineer | AWS • Terraform • Kubernetes • Automation**
+**DevOps Engineer | Full-Stack Software Engineer (MERN)**
 
-Most of my production work has been delivered in private enterprise environments, including internal repositories, regulated systems, and client infrastructure. This GitHub highlights selected public projects, labs, and automation work that reflect how I design, automate, and operate systems.
+I build cloud infrastructure, deployment workflows, and full-stack web applications.
 
-## Focus
+Most of my production DevOps work has been delivered in private client and enterprise environments. This GitHub highlights my public software engineering projects, selected technical work, and the hands-on portfolio I use to demonstrate how I design, build, and troubleshoot systems.
 
-- Cloud infrastructure automation
+## Current Focus
+
+- Full-stack software engineering with the MERN stack
+- Cloud and infrastructure automation
 - CI/CD and deployment reliability
-- Kubernetes and container platforms
-- Infrastructure as Code
-- Selected full-stack and networking projects
+- Docker and Linux-based environments
+- Practical engineering through public projects
 
-## Selected Public Work
-
-### Global PACS Deployment Automation
-Orthanc-based PACS deployment work focused on reproducible Ubuntu setup, containerized services, environment validation, and operational runbooks.
+## Public Work on GitHub
 
 ### Restaurant Deals
-Full-stack MERN capstone with role-based access, backend API workflows, and a React frontend.
+A full-stack MERN application built around restaurant promotions, user workflows, and role-based access.
 
-### Containerized Rails Platform
-Dockerized Rails build and deployment work focused on repeatability, CI workflows, and ARM-compatible containerization.
+### Selected Technical Practice
+Additional repositories on this profile reflect technical practice across web development, JavaScript, Java, and deployment-related work.
 
-### Terraform Static Infrastructure
-Infrastructure-as-Code project for reproducible AWS static site provisioning.
+## Background
 
-### CCNA Network Engineering Labs
-Hands-on labs covering subnetting, routing, VLANs, and troubleshooting fundamentals.
+I bring 8+ years of DevOps experience across AWS, Docker, Terraform, Linux, CI/CD, and deployment support, and I am continuing to grow my public software engineering portfolio through hands-on full-stack development. My long-term direction combines DevOps, cloud infrastructure, and application engineering. 
 
 ## Certifications
 
 - AWS Certified DevOps Engineer – Professional
 - AWS Certified Cloud Practitioner
-- Google IT Support Specialization
+- Google IT Support Professional Certificate
+- IBM Software Engineering Essentials :contentReference[oaicite:2]{index=2}
 
 ## Connect
 
@@ -43,4 +41,4 @@ Hands-on labs covering subnetting, routing, VLANs, and troubleshooting fundament
 
 ## Open To
 
-DevOps, Cloud, Platform, and selective freelance automation engagements.
+DevOps, Cloud, and Full-Stack Software Engineering opportunities.
