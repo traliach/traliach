@@ -6,13 +6,14 @@ I build cloud infrastructure, deployment workflows, and full-stack web applicati
 
 Most of my production DevOps work has been delivered in private client and enterprise environments. This GitHub highlights my public software engineering projects, selected technical work, and the hands-on portfolio I use to demonstrate how I design, build, and troubleshoot systems.
 
-## Current Focus
+## Core Areas
 
-- Full-stack software engineering with the MERN stack
-- Cloud and infrastructure automation
-- CI/CD and deployment reliability
-- Docker and Linux-based environments
-- Practical engineering through public projects
+- Full-Stack Software Engineering (MERN)
+- Cloud Infrastructure & Automation
+- CI/CD & Deployment Reliability
+- Containerization & Orchestration
+- Infrastructure as Code
+- Monitoring, Logging & Troubleshooting
 
 ## Public Work on GitHub
 
@@ -24,20 +25,22 @@ Additional repositories on this profile reflect technical practice across web de
 
 ## Background
 
-I bring 8+ years of DevOps experience across AWS, Docker, Terraform, Linux, CI/CD, and deployment support, and I am continuing to grow my public software engineering portfolio through hands-on full-stack development. My long-term direction combines DevOps, cloud infrastructure, and application engineering. 
+I bring 8+ years of DevOps experience across cloud infrastructure, CI/CD, containerized environments, Infrastructure as Code, monitoring, and production support. My public GitHub is centered on full-stack software engineering with the MERN stack, along with selected technical work that reflects my broader background in automation, systems, and deployment.
 
 ## Certifications
 
-- AWS Certified DevOps Engineer – Professional
-- AWS Certified Cloud Practitioner
-- Google IT Support Professional Certificate
-- IBM Software Engineering Essentials :contentReference[oaicite:2]{index=2}
+- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/users/ali-achille-traore)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/users/ali-achille-traore)
+- [Google IT Support Professional Certificate](https://www.credly.com/users/ali-achille-traore)
+- [Software Engineering Essentials](https://www.credly.com/users/ali-achille-traore)
+
+**View all badges:** [Credly Profile](https://www.credly.com/users/ali-achille-traore)
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/ali-achille-traore](https://linkedin.com/in/ali-achille-traore)
-- Email: [ali.achille.traore@gmail.com](mailto:ali.achille.traore@gmail.com)
-- GitHub: [github.com/traliach](https://github.com/traliach)
+- [LinkedIn](https://linkedin.com/in/ali-achille-traore)
+- [Email](mailto:ali.achille.traore@gmail.com)
+- [GitHub](https://github.com/traliach)
 
 ## Open To
 
