@@ -25,14 +25,17 @@ Additional repositories on this profile reflect technical practice across web de
 
 ## Background
 
-I bring 8+ years of DevOps experience across cloud infrastructure, CI/CD, containerized environments, Infrastructure as Code, monitoring, and production support. My public GitHub is centered on full-stack software engineering with the MERN stack, along with selected technical work that reflects my broader background in automation, systems, and deployment.
+I bring 6+ years of DevOps experience across cloud infrastructure, CI/CD, containerized environments, Infrastructure as Code, monitoring, and production support. My public GitHub is centered on full-stack software engineering with the MERN stack, along with selected technical work that reflects my broader background in automation, systems, and deployment.
 
 ## Certifications
 
-- [AWS Certified DevOps Engineer – Professional](https://www.credly.com/users/ali-achille-traore)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/users/ali-achille-traore)
-- [Google IT Support Professional Certificate](https://www.credly.com/users/ali-achille-traore)
-- [Software Engineering Essentials](https://www.credly.com/users/ali-achille-traore)
+[![AWS DevOps Engineer – Professional](https://img.shields.io/badge/AWS-DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/ali-achille-traore)
+
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/users/ali-achille-traore)
+
+[![Google IT Support Professional Certificate](https://img.shields.io/badge/Google-IT%20Support-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/users/ali-achille-traore)
+
+[![IBM Software Engineering Essentials](https://img.shields.io/badge/IBM-Software%20Engineering%20Essentials-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/users/ali-achille-traore)
 
 **View all badges:** [Credly Profile](https://www.credly.com/users/ali-achille-traore)
 
