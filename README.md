@@ -33,7 +33,7 @@ I bring 6+ years of DevOps experience across cloud infrastructure, CI/CD, contai
 How the application serves users in production (request → auth → data → response):
 
 ```mermaid
-flowchart LR
+flowchart TB
     U[Users] -->|HTTPS| FE[React + TypeScript UI<br/>Vite build + Tailwind styling]
     FE -->|REST/JSON| API[Node.js + Express API<br/>TypeScript]
     FE -->|Send token| AUTH[JWT auth]
@@ -119,9 +119,9 @@ Cloud Platforms
 
 ## Connect
 
-- LinkedIn: https://linkedin.com/in/ali-achille-traore
-- Email: mailto:ali.achille.traore@gmail.com
-- GitHub: https://github.com/traliach
+- [LinkedIn](https://linkedin.com/in/ali-achille-traore)
+- [Email](mailto:ali.achille.traore@gmail.com)
+- [GitHub](https://github.com/traliach)
 
 ## Open To
 
