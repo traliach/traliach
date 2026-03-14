@@ -33,16 +33,15 @@ I bring 6+ years of DevOps experience across cloud infrastructure, CI/CD, contai
 How the application serves users in production (request → auth → data → response):
 
 ```mermaid
-flowchart TB
-    U[Users] -->|HTTPS| FE[React + TypeScript UI<br/>Vite build + Tailwind styling]
-    FE -->|REST/JSON| API[Node.js + Express API<br/>TypeScript]
-    FE -->|Send token| AUTH[JWT auth]
+flowchart LR
+    U[Users] -->|HTTPS| FE["React + TypeScript UI<br/>Vite build + Tailwind styling"]
+    FE -->|REST/JSON| API["Node.js + Express API<br/>TypeScript"]
+    FE -->|Send token| AUTH[JWT Auth]
     API -->|Verify token| AUTH
-    AUTH -->|Enforce roles| AC[Access Control (RBAC)]
+    AUTH -->|Enforce roles| AC["Access Control - RBAC"]
     API --> AC
     AC --> DB[(MongoDB)]
-    API --> OBS[Logs / Metrics / Traces]
-```
+    API --> OBS["Logs / Metrics / Traces"]
 
 ### Delivery Flow (DevOps)
 How changes move from commit → pipeline → container → infrastructure → deployment → monitoring:
