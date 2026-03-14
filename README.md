@@ -42,6 +42,7 @@ flowchart LR
     API --> AC
     AC --> DB[(MongoDB)]
     API --> OBS["Logs / Metrics / Traces"]
+```
 
 ### Delivery Flow (DevOps)
 How changes move from commit → pipeline → container → infrastructure → deployment → monitoring:
@@ -49,21 +50,21 @@ How changes move from commit → pipeline → container → infrastructure → d
 ```mermaid
 flowchart TB
     Dev[Developer] -->|push| SCM[Git repository]
-    SCM --> CI[Jenkins Pipeline<br/>Jenkinsfile = pipeline-as-code]
+    SCM --> CI["Jenkins Pipeline<br/>Jenkinsfile = pipeline-as-code"]
 
-    CI --> QA[Lint + Unit/Integration Tests]
-    CI --> Build[Build / Bundle<br/>TypeScript + Vite]
-    Build --> Img[Docker Build<br/>Immutable images]
+    CI --> QA["Lint + Unit/Integration Tests"]
+    CI --> Build["Build / Bundle<br/>TypeScript + Vite"]
+    Build --> Img["Docker Build<br/>Immutable images"]
     Img --> Reg[Container Registry]
 
-    CI --> IaC[Terraform Plan/Apply<br/>Infrastructure as Code]
-    IaC --> Cloud[Cloud Environment<br/>AWS / Azure]
+    CI --> IaC["Terraform Plan/Apply<br/>Infrastructure as Code"]
+    IaC --> Cloud["Cloud Environment<br/>AWS / Azure"]
 
-    Reg --> Deploy[Deploy/Update Services<br/>rolling updates]
+    Reg --> Deploy["Deploy/Update Services<br/>rolling updates"]
     Deploy --> Cloud
 
-    Cloud --> Verify[Health Checks + Rollback Hooks]
-    Cloud --> Monitor[Monitoring + Alerting]
+    Cloud --> Verify["Health Checks + Rollback Hooks"]
+    Cloud --> Monitor["Monitoring + Alerting"]
 ```
 
 ## Tech Stack (Mapped to Responsibilities)
