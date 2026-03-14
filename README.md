@@ -38,7 +38,7 @@ flowchart LR
     B --> E[restaurant-deals-api]
 
     C --> F[jenkins-terraform-platform-lab]
-    C --> G[cloud-resume-infra-lab]
+    C --> G[cloud-resume-infra-lab]```
 
 
 ## Certifications
