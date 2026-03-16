@@ -69,41 +69,39 @@ flowchart TB
 
 ## Tech Stack (Mapped to Responsibilities)
 
-This stack is organized into two “systems”: **runtime** (how requests are handled) and **delivery** (how changes ship safely).
+This stack is organized into two systems: **runtime** (how requests are handled) and **delivery** (how changes ship safely).
 
 ### Runtime (Build the Product)
 
-Frontend
+Application
 - **React + TypeScript**: component-driven UI with type safety
-- **Vite**: fast local dev + production bundling
-- **Tailwind CSS**: consistent styling and UI iteration
-- **Role-based UI**: navigation/visibility based on user role (UI convenience, not the security boundary)
+- **Vite**: fast local development and production bundling
+- **Tailwind CSS**: consistent styling and fast UI iteration
+- **Node.js + Express + TypeScript**: REST APIs, middleware, validation, and backend workflow handling
+- **JWT + RBAC**: stateless authentication and server-side access control
 
-Backend
-- **Node.js + Express + TypeScript**: REST APIs, middleware, validation, error handling
-- **JWT authentication**: stateless token-based auth for API requests
-- **Access control (RBAC)**: server-side authorization checks for protected actions/resources
-
-Data
-- **MongoDB**: document data model for app entities, queries, indexing strategy
+Data and Storage
+- **MongoDB + Mongoose**: document data model for MERN applications
+- **PostgreSQL / RDS**: relational workloads and managed database operations
+- **DynamoDB / Redshift / Aurora / Oracle**: broader database exposure across cloud and enterprise environments
+- **S3 / object storage concepts**: static assets, storage integration, and cloud-based data workflows
 
 Operations
-- **Logging/metrics/tracing**: telemetry to detect issues and troubleshoot production behavior
+- **Logging / metrics / tracing**: production visibility, troubleshooting, and operational feedback loops
 
 ### Delivery (Ship Reliability)
 
-CI/CD
-- **Jenkins**: pipeline automation (build → test → package → deploy)
-- **CI/CD discipline**: repeatable stages, artifact promotion, automated checks
+CI/CD and Automation
+- **Jenkins / GitHub Actions / GitLab CI / Azure DevOps**: pipeline automation, build orchestration, and deployment workflows
+- **Terraform / CloudFormation / Ansible**: Infrastructure as Code, configuration automation, and repeatable environments
 
-Containers
-- **Docker**: consistent packaging across dev/test/prod via immutable images
-
-Infrastructure as Code
-- **Terraform**: versioned infrastructure, repeatable environments, safer change management
+Containers and Platforms
+- **Docker / Docker Compose**: consistent packaging across development, test, and production
+- **Kubernetes / OpenShift**: container orchestration and platform operations
+- **Linux / Bash / Python**: scripting, automation, and systems troubleshooting
 
 Cloud Platforms
-- **AWS / Azure**: compute, networking, storage, and managed services (depending on environment)
+- **AWS / Azure**: compute, networking, storage, IAM, and managed cloud services
 
 ## Certifications
 
