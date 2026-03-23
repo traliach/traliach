@@ -17,12 +17,25 @@ Most of my production DevOps work has been delivered in private client and enter
 
 ## Public Work on GitHub
 
-### Restaurant Deals
-A full-stack MERN application built around restaurant promotions, user workflows, and role-based access.
+### achille.dev — Full-Stack Portfolio Platform
+A full-stack portfolio platform built to showcase engineering work through a polished public frontend and a structured backend-driven content system. It combines React, TypeScript, Vite, Tailwind CSS, Express, and MongoDB, with admin-managed content, testimonial and contact workflows, secure authentication, and deployment-ready architecture.
+
+**Stack:** React, TypeScript, Vite, Tailwind CSS, Express, MongoDB  
+**Highlights:** admin-managed content, portfolio UX, contact/testimonial workflows, secure auth, deployment-ready setup  
+**Repository:** [traliach/achille.dev](https://github.com/traliach/achille.dev)
+
+### Restaurant Deals — MERN Marketplace Application
+A full-stack marketplace application centered on restaurant promotions, owner workflows, admin moderation, and customer-facing deal discovery. It includes role-based access control, REST API design, and a React frontend integrated with live backend data.
+
+**Stack:** React, TypeScript, Node.js, Express, MongoDB, JWT, RBAC  
+**Highlights:** moderation workflows, role-based access control, REST API design, full-stack architecture  
+**Repositories:** [API](https://github.com/traliach/restaurant-deals-api) · [Web](https://github.com/traliach/restaurant-deals-web)
 
 ### Selected Technical Practice
-Additional repositories on this profile reflect technical practice across web development, JavaScript, Java, and deployment-related work.
+Additional repositories on this profile reflect hands-on work across web development, JavaScript, Java, cloud tooling, and deployment-oriented engineering.
 
+### Selected Technical Practice
+Additional repositories on this profile reflect hands-on work across web development, JavaScript, Java, cloud tooling, and deployment-oriented engineering.
 ## Background
 
 I bring 6+ years of DevOps experience across cloud infrastructure, CI/CD, containerized environments, Infrastructure as Code, monitoring, and production support. My public GitHub is centered on full-stack software engineering with the MERN stack, along with selected technical work that reflects my broader background in automation, systems, and deployment.
