@@ -1,3 +1,16 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Ali%20Achille%20Traoré&fontSize=30&fontColor=ffffff&animation=fadeIn)
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/achille-traore)
+- [Email](mailto:t.achille.tech@gmail.com)
+- [GitHub](https://github.com/traliach)
+- [Portfolio](https://achille.tech)
+
+## Open To
+
+DevOps, Cloud, and Full-Stack Software Engineering opportunities.
+
 # Ali Achille Traoré
 
 **DevOps Engineer | Full-Stack Software Engineer (MERN)**
@@ -14,6 +27,13 @@ Most of my production DevOps work has been delivered in private client and enter
 - Containerization & Orchestration
 - Infrastructure as Code
 - Monitoring, Logging & Troubleshooting
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=traliach&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traliach&layout=compact&theme=dark&hide_border=true" height="165" />
+</p>
 
 ## Public Work on GitHub
 
@@ -34,8 +54,6 @@ A full-stack marketplace application centered on restaurant promotions, owner wo
 ### Selected Technical Practice
 Additional repositories on this profile reflect hands-on work across web development, JavaScript, Java, cloud tooling, and deployment-oriented engineering.
 
-### Selected Technical Practice
-Additional repositories on this profile reflect hands-on work across web development, JavaScript, Java, cloud tooling, and deployment-oriented engineering.
 ## Background
 
 I bring 6+ years of DevOps experience across cloud infrastructure, CI/CD, containerized environments, Infrastructure as Code, monitoring, and production support. My public GitHub is centered on full-stack software engineering with the MERN stack, along with selected technical work that reflects my broader background in automation, systems, and deployment.
@@ -127,13 +145,3 @@ Cloud Platforms
 [![IBM Software Engineering Essentials](https://img.shields.io/badge/IBM-Software_Engineering_Essentials-1261FE?style=for-the-badge&logo=ibm&logoColor=white)](https://www.credly.com/users/ali-achille-traore)
 
 **View all badges:** [Credly Profile](https://www.credly.com/users/ali-achille-traore)
-
-## Connect
-
-- [LinkedIn](https://linkedin.com/in/ali-achille-traore)
-- [Email](mailto:ali.achille.traore@gmail.com)
-- [GitHub](https://github.com/traliach)
-
-## Open To
-
-DevOps, Cloud, and Full-Stack Software Engineering opportunities.
