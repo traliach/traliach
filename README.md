@@ -8,8 +8,8 @@
 
 ## Open To
 
-Primary: DevOps Engineer · Cloud Infrastructure · Platform Engineering
-Secondary: Full-Stack Software Engineering (MERN)
+DevOps Engineer · Cloud Infrastructure · Platform Engineering
+Full-Stack Software Engineering (MERN)
 
 # Achille Traoré
 
