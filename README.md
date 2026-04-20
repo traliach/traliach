@@ -4,7 +4,6 @@
 
 - [LinkedIn](https://linkedin.com/in/achille-traore)
 - [Email](mailto:t.achille.tech@gmail.com)
-- [GitHub](https://github.com/traliach)
 - [Portfolio](https://achille.tech)
 
 ## Open To
