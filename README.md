@@ -8,8 +8,6 @@
 
 ## Open To
 
-## Open To
-
 Primary: DevOps Engineer · Cloud Infrastructure · Platform Engineering
 
 Secondary: Full-Stack Software Engineering (MERN)
