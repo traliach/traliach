@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Ali%20Achille%20Traoré&fontSize=30&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Achille%20Traoré&fontSize=30&fontColor=ffffff&animation=fadeIn)
 
 ## Connect
 
@@ -8,42 +8,62 @@
 
 ## Open To
 
-DevOps, Cloud, and Full-Stack Software Engineering opportunities.
+Primary: DevOps Engineer · Cloud Infrastructure · Platform Engineering
+Secondary: Full-Stack Software Engineering (MERN)
 
-# Ali Achille Traoré
+# Achille Traoré
 
 **DevOps Engineer | Full-Stack Software Engineer (MERN)**
 
 I build cloud infrastructure, deployment workflows, and full-stack web applications.
 
-Most of my production DevOps work has been delivered in private client and enterprise environments. This GitHub highlights my public software engineering projects, selected technical work, and the hands-on portfolio I use to demonstrate how I design, build, and troubleshoot systems.
+Most of my production DevOps work has been delivered in private client and enterprise environments. This GitHub highlights my public software engineering projects, selected technical work, and the infrastructure labs I build to demonstrate operational depth.
 
 ## Core Areas
 
-- Full-Stack Software Engineering (MERN)
 - Cloud Infrastructure & Automation
 - CI/CD & Deployment Reliability
 - Containerization & Orchestration
 - Infrastructure as Code
 - Monitoring, Logging & Troubleshooting
+- Full-Stack Software Engineering (MERN)
 
 ## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traliach&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=traliach&show_icons=true&theme=dark&hide_border=true" height="165" />
 </p>
 
 ## Public Work on GitHub
 
+### DevOps Lab Projects
+Production-grade infrastructure projects built to demonstrate real operational depth — not just functional, but observable, secured, and recoverable.
+
+**Kubernetes Platform Lab**
+k3s cluster with ArgoCD App of Apps pattern, Helm chart deployments, per-namespace RBAC, network policies across 3 namespaces, PodDisruptionBudgets, and Prometheus alerting. Passed 21/21 health checks. Disaster recovery confirmed ~30-min RTO.
+**Stack:** Kubernetes · k3s · ArgoCD · Helm · Prometheus · RBAC · Linux · Bash
+**Repository:** [traliach/k8s-platform-lab](https://github.com/traliach/k8s-platform-lab)
+
+**DevOps Platform Lab**
+Self-hosted Jenkins CI/CD platform provisioned via Ansible with JCasC — no manual UI configuration. Ansible Vault AES256 secret management. Prometheus alerting with JenkinsDown alert verified firing. End-to-end pipeline runs in ~46 seconds.
+**Stack:** Jenkins · JCasC · Ansible · Ansible Vault · Docker Compose · Prometheus · Bash
+**Repository:** [traliach/devops-platform-lab](https://github.com/traliach/devops-platform-lab)
+
+**Cloud Resume Infrastructure**
+Full-stack cloud-native resume platform live at resume.achille.tech. React 19 + TypeScript + Vite + Tailwind frontend. Python Lambda backend. Terraform-provisioned AWS infrastructure. 3 active CloudWatch alarms and SNS alerting.
+**Stack:** React · TypeScript · Terraform · AWS Lambda · CloudWatch · SNS · S3 · GitHub Actions
+**Repository:** [traliach/cloud-resume-infra](https://github.com/traliach/cloud-resume-infra)
+
 ### achille.dev — Full-Stack Portfolio Platform
-A full-stack portfolio platform built to showcase engineering work through a polished public frontend and a structured backend-driven content system. It combines React, TypeScript, Vite, Tailwind CSS, Express, and MongoDB, with admin-managed content, testimonial and contact workflows, secure authentication, and deployment-ready architecture.
+A full-stack portfolio platform built to showcase engineering work through a polished public frontend and a structured backend-driven content system. It combines React, TypeScript, Vite, Tailwind CSS, Express, and MongoDB into a cohesive full-stack architecture with admin-managed content, contact workflows, and deployment-ready configuration.
 
 **Stack:** React, TypeScript, Vite, Tailwind CSS, Express, MongoDB  
 **Highlights:** admin-managed content, portfolio UX, contact/testimonial workflows, secure auth, deployment-ready setup  
 **Repository:** [traliach/achille.dev](https://github.com/traliach/achille.dev)
 
 ### Restaurant Deals — MERN Marketplace Application
-A full-stack marketplace application centered on restaurant promotions, owner workflows, admin moderation, and customer-facing deal discovery. It includes role-based access control, REST API design, and a React frontend integrated with live backend data.
+A full-stack marketplace application centered on restaurant promotions, owner workflows, admin moderation, and customer-facing deal discovery. It includes role-based access control, REST API design, and a full MERN architecture split across a dedicated API and web client.
 
 **Stack:** React, TypeScript, Node.js, Express, MongoDB, JWT, RBAC  
 **Highlights:** moderation workflows, role-based access control, REST API design, full-stack architecture  
@@ -54,7 +74,7 @@ Additional repositories on this profile reflect hands-on work across web develop
 
 ## Background
 
-I bring 6+ years of DevOps experience across cloud infrastructure, CI/CD, containerized environments, Infrastructure as Code, monitoring, and production support. My public GitHub is centered on full-stack software engineering with the MERN stack, along with selected technical work that reflects my broader background in automation, systems, and deployment.
+I bring 8+ years of DevOps experience across cloud infrastructure, CI/CD, containerized environments, Infrastructure as Code, monitoring, and production support. My public GitHub is centered on full-stack software engineering projects and infrastructure labs that demonstrate real operational depth.
 
 ## Engineering Architecture (Flow-Based)
 
