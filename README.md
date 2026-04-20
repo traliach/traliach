@@ -15,7 +15,7 @@ Secondary: Full-Stack Software Engineering (MERN)
 
 **DevOps Engineer | Full-Stack Software Engineer (MERN)**
 
-I build cloud infrastructure, deployment workflows, and full-stack web applications.
+I design and automate cloud infrastructure, build CI/CD pipelines, and develop full-stack web applications.
 
 Most of my production DevOps work has been delivered in private client and enterprise environments. This GitHub highlights my public software engineering projects, selected technical work, and the infrastructure labs I build to demonstrate operational depth.
 
