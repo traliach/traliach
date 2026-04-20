@@ -32,7 +32,6 @@ Most of my production DevOps work has been delivered in private client and enter
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=traliach&layout=compact&theme=dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=traliach&show_icons=true&theme=dark&hide_border=true" height="165" />
 </p>
 
 ## Public Work on GitHub
